@@ -1,0 +1,6 @@
+#quote-box {
+  box-sizing: border-box;
+  width: 40%;
+  background: #eee;
+  padding: 40px;
+}

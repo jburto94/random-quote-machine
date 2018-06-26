@@ -1,0 +1,17 @@
+#buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+#new-quote, #tweet-quote {
+  padding: 12px 20px;
+  background: #333;
+  border: none;
+  color: white;
+  font-size: 1em;
+}
+
+#new-quote:hover,
+#tweet-quote:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,14 @@
+#text {
+  margin-bottom: 15px;
+  font-style: italic;
+  font-size: 1.4em;
+}
+
+#text i {
+  margin-right: 10px;
+}
+
+#author {
+  text-align: right;
+  font-family: 'Railway';
+}
